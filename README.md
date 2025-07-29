@@ -1,0 +1,2 @@
+# cam
+Reconoce webcam automaticamente
